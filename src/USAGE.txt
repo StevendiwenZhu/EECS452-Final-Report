@@ -1,0 +1,7 @@
+User interface：There is a real-time image display window on PC and Pi respectively
+
+Window on PC:
+Trace the hand and draw 21 key nodes, and show on the image whether the user is using the left or right hand, and the corresponding command
+
+Window on Pi:
+The image shows the environment in front of the car in real time, and the top left of the image shows the car's current speed mode.When the ranging module is activated, the calculated distance will be displayed at the top right of the image, and whether the item meets the conditions for picking up will be indicated at the bottom of the image. For details, please refer to the report.

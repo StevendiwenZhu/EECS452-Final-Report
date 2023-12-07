@@ -1,0 +1,5 @@
+This project uses common libraries: OpenCV, serial, socket, numpy, etc., which are either self-contained or installed in lab.
+
+In gesture_recognition.py, we use mediapipe library.  
+Users can install this library by using pip package with the following command:
+pip install mediapipe
